@@ -1,6 +1,8 @@
 
-<div align="center">
-	<img src="https://media.giphy.com/media/hYAADzQ4wscosOtGpN/giphy.gif" alt="Ellie Does Code">
+
+
+<div align="center" >
+	<img width="400" height="400" src="https://media.giphy.com/media/hYAADzQ4wscosOtGpN/giphy.gif" alt="Ellie Does Code">
 </div>
 
 <!--
