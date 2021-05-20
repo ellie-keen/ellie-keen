@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
+📫 elliekeen95@gmail.com
 [<img align="left" alt="Ellie Keen | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][insta]
 [<img align="left" alt="Ellie Keen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-elliekeen95@gmail.com
 
 ### Languages and Tools:
 
