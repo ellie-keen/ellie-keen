@@ -3,9 +3,9 @@
 </div>
 
 ### Hi there, I'm Ellie Keen 👽
-- 🚆 I work at [Trainline][Trainline] as a Front End Developer.
-- 🌱 I currently work with React & Redux.
-- 👯 I’m a graduate from the coding bootcamp [Makers][Makers] in 2018.
+- 🚆 Working at [Trainline][Trainline] as a Front End Developer.
+- 🌱 Currently working with React & Redux.
+- 👯 A graduate from the coding bootcamp [Makers][Makers] in 2018.
 
 ### Connect with me:
 
